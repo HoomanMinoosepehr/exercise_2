@@ -9,10 +9,23 @@
 
 .main #box1 {
     background-color: aquamarine;
-    border: 1px solid rgb(44, 161, 132);
+    border: 3px solid rgb(44, 161, 132);
     text-align: center;
     width: 40%;
     height: 40%;
     margin: 20px;
     border-radius: 20px;
+    text-align: center;
+}
+
+.main #box2 {
+    background-color: aquamarine;
+    border: 3px solid rgb(44, 161, 132);
+    text-align: center;
+    width: 40%;
+    height: 40%;
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    left:0px;
 }
